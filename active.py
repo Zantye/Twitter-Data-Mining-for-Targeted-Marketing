@@ -2,7 +2,7 @@
 """
 Created on Mon Dec  2 12:25:37 2019
 
-@author: Parth
+@author: Zantye
 """
 import psycopg2
 import os
